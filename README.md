@@ -22,4 +22,4 @@ Time spent: *8* hours spent in total
 
 GIF Walkthrough: 
 
-<img src="https://github.com/dhruvp5/CodePathCyberSecWeek9/blob/master/Asg9_1.gif?raw=true" alt="gif">
+<img src="https://github.com/dhruvp5/CyberSecCodePathWeek9/blob/master/Asg9_1.gif?raw=true" alt="gif">
