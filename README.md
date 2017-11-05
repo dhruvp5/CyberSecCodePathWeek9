@@ -19,3 +19,7 @@ Time spent: *8* hours spent in total
 * Any unresolved questions raised by the data collected:
 
   Why do people from several countries have access to something I just created. How are they gaining the IP or what are they trying to get from my honeypot.
+
+GIF Walkthrough: 
+
+<img src="https://github.com/dhruvp5/CodePathCyberSecWeek9/blob/master/Asg9_1.gif?raw=true" alt="gif">
